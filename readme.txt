@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes of files
 GitHub is ready
 creating a new branch is AND simple
+branch management
